@@ -1,0 +1,1 @@
+# Abgrenzung Lean/Agil
