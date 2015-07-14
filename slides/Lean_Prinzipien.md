@@ -1,5 +1,4 @@
 # Lean Prinzipien
-> Lean Software Development
 
 * Qualität von Anfang an (Build Quality In)
 * Verschwendung vermeiden (Eliminate Waste)
@@ -8,3 +7,6 @@
 * Schnelles Liefern (Deliver Fast)
 * Respekt (Respect People)
 * Das Ganze optimieren (Optimize The Whole)
+
+Note: 
+nach Lean Software Development

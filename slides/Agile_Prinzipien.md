@@ -1,4 +1,4 @@
-# [Agile Prinzipien](http://agilemanifesto.org/iso/de/)
+# Agile Prinzipien
 * Höchste Priorität ist Kundenzufriedenheit
 * Anforderungsänderungen willkommen heißen
 * Regelmäßige Lieferung von funktionierender Software
@@ -11,3 +11,6 @@
 * Einfachheit - Maximieren der nicht getanen Arbeit
 * Selbstorganisierte Teams
 * Regelmäßige Reflektion und Anpassung
+
+Note: 
+http://agilemanifesto.org/iso/de/

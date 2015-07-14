@@ -1,4 +1,6 @@
-## Nach Kanban And Scrum making the most of both
+# In a Nutshell
 * Wertstrom visualisieren
 * Bergenzung der Work-in-Progress
 * Bestimmen der "lead time"
+
+Note: 

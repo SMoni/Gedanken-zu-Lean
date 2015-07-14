@@ -4,3 +4,5 @@
 * Reduktion durch Entscheidungen so spät wie möglich
 * Durch die Darstellung des Wertstroms ist eine Optimierung des Ganzen möglich
 * Implizites Wissen zu explizitem
+
+Note: 

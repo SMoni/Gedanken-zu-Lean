@@ -5,3 +5,5 @@
 * Balance Forderungen gegen Durchsatz
 * Priorisieren
 * Verbesserung Vorhersagbarkeit durch Reduktion der Veränderlichkeit
+
+Note:
