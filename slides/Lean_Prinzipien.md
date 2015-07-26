@@ -1,7 +1,7 @@
 # Lean Prinzipien
 
-* Qualität von Anfang an (Build Quality In)
 * Verschwendung vermeiden (Eliminate Waste)
+* Qualität von Anfang an (Build Quality In)
 * Wissen erzeugen (Create Knowledge)
 * Entscheidungen so spät wie möglich (Defer Commitment)
 * Schnelles Liefern (Deliver Fast)
