@@ -5,3 +5,5 @@
 
 Note: 
 http://www.pragmatic-teams.de/agiler-spickzettel-1-werte-prinzipien-praktiken
+
+Beispiel TDD in den Kopf bringen (Wie - Warum)
