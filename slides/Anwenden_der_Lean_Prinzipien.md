@@ -6,3 +6,11 @@
 * Implizites Wissen zu explizitem
 
 Note: 
+Drei Arten von Waste:
+ Transaktionskosten - Infrastruktur herstellen
+ Koordinationkosten - Besprechungen,Warten auf Feedback
+ 
+ Einmal gelerntes nicht noch einmal lernen -> Was liefert kanban hier?
+ -> Schneller Durchflow gewährleisten.
+ 
+ 

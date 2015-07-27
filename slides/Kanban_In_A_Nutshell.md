@@ -1,6 +1,9 @@
 # In a Nutshell
 * Wertstrom visualisieren
-* Bergenzung der Work-in-Progress
-* Bestimmen der "lead time"
+* Begrenzung der Work-in-Progress
+* "Flow" managen
+* Prozess vereinbarungen explizit machen
+* "Feedback Loops" implementieren
+* Gemeinschaftlich verbessern
 
 Note: 

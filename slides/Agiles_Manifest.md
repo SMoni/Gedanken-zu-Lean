@@ -4,27 +4,41 @@
 * __Zusammenarbeit mit dem Kunden__ mehr als Vertragsverhandlung
 * __Reagieren auf Veränderung__ mehr als das Befolgen eines Plans
 
-Note: 
+Note:
 http://agilemanifesto.org/iso/de/
 
 Beide Teile des Satzes sind sinnvoll, aber die linke Seite ist zu bevorzugen.
 
-17 Personen 
+17 Personen
 
 Kent Beck - TDD & XP
-Mike Beedle
-Arie van Bennekum
-Alistair Cockburn - Crystal
-Ward Cunningham - Entwurfsmuster
-Martin Fowler - :)
-James Grenning
-Jim Highsmith
-Andrew Hunt
-Ron Jeffries
-Jon Kern
-Brian Marick
-Robert C. Martin - :)
-Steve Mellor
+Martin Fowler - Refactoring
+Robert C. Martin - Clean Code
 Ken Schwaber - Scrum
 Jeff Sutherland - Scrum
-Dave Thomas
+
+---
+
+# TPS
+* Autonomation
+* Just-In-Time
+* Individuum und Team
+* Kaizen
+
+---
+
+# Clean Code Developer
+* Evolvierbarkeit
+* Korrektheit
+* Produktionseffizienz
+* Reflexion
+
+---
+
+# Extreme Programming
+* Kommunikation
+* Einfachheitg
+* Feedback
+* Courage
+* Respekt
+* ...
